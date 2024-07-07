@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@dfuse/client": "^0.3.21",
+    "@solana/web3.js": "^1.91.1",
+    "@waxio/waxjs": "^1.7.1",
+    "axios": "^1.6.8",
+    "borsh": "^2.0.0",
+    "eosjs": "^22.1.0",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.0",
+    "socket.io-client": "^4.7.4",
+    "ws": "^8.16.0"
+  },
+  "type": "module"
+}
